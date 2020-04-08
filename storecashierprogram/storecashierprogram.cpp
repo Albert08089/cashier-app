@@ -9,6 +9,7 @@
 #include "Brand.h"
 #include "coupon.h"
 #include "cashregister.h"
+#include "resource.h"
 using namespace std;
 
 
