@@ -1,3 +1,4 @@
 nike nike 45.95 24678
 aircs nike 99.65 987865
 jimmyDean food 3.44 23479
+apple computer 1000 12345

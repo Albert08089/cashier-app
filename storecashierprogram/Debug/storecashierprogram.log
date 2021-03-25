@@ -1,4 +1,1 @@
-﻿  cashregister.cpp
-C:\Users\swift\source\repos\storecashierprogram\storecashierprogram\cashregister.cpp(17,25): warning C4101: 'item_discount': unreferenced local variable
-C:\Users\swift\source\repos\storecashierprogram\storecashierprogram\cashregister.cpp(17,13): warning C4101: 'item_price': unreferenced local variable
-  storecashierprogram.vcxproj -> C:\Users\swift\source\repos\storecashierprogram\Debug\storecashierprogram.exe
+﻿  storecashierprogram.vcxproj -> C:\Users\alber\OneDrive\Desktop\code\cashier-app\Debug\storecashierprogram.exe

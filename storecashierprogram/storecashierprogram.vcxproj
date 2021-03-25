@@ -154,8 +154,8 @@
     <ClCompile Include="Brand.cpp" />
     <ClCompile Include="cashregister.cpp" />
     <ClCompile Include="coupon.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="manager.cpp" />
-    <ClCompile Include="storecashierprogram.cpp" />
     <ClCompile Include="storeitem.cpp" />
   </ItemGroup>
   <ItemGroup>
