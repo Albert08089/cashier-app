@@ -1,0 +1,3 @@
+C:/Users/alber/OneDrive/Desktop/code/cashier-app/cmake-build-debug/CMakeFiles/cashier_app.dir
+C:/Users/alber/OneDrive/Desktop/code/cashier-app/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alber/OneDrive/Desktop/code/cashier-app/cmake-build-debug/CMakeFiles/rebuild_cache.dir
